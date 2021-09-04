@@ -12,6 +12,11 @@
 .cache
 /docs
 
+
+#IDEs
+.idea/
+.vscode/
+
 # misc
 .DS_Store
 .env
